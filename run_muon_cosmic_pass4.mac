@@ -1,0 +1,28 @@
+
+# set variable needed at detector configuration first:
+/analysis/cosmic_mode 1
+/analysis/pixel_depth 300.0
+/analysis/pixel_depletion 3.0
+/analysis/pixel_width 1.12
+/analysis/pixel_max_x 300
+/analysis/pixel_max_y 300
+/analysis/gen_theta 0.0
+# 5 mm wide active region 5 mm away from point source
+/analysis/gen_theta_max 0.785
+/analysis/gen_phi_max 1.57
+
+# Initialize kernel
+/run/initialize
+#
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+#
+# mu- 4 GeV 
+#
+/gun/particle mu-
+/gun/energy 4 GeV
+#
+/run/beamOn 10000
+

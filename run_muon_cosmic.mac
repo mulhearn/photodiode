@@ -1,0 +1,28 @@
+
+# set variable needed at detector configuration first:
+/analysis/pixel_depth 10.5
+/analysis/pixel_depletion 1.5
+/analysis/pixel_width 1.12
+/analysis/pixel_max_x 10
+/analysis/pixel_max_y 10
+# theta ~ 30 degrees should hit 3 pixels.
+/analysis/gen_theta 0.26
+/analysis/gen_theta_max 0.0
+/analysis/gen_phi_max 1.57
+
+# Initialize kernel
+/run/initialize
+#
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+#
+# muon 4 MeV 
+#
+/gun/particle muon
+/gun/energy 4 GeV
+#
+#/run/beamOn 100000
+/run/beamOn 100
+

@@ -1,0 +1,47 @@
+ The run consists of 500000 gamma of 1.2 MeV
+ evts with non-zero energy:  2499
+ evts with gamma hit:  500000
+ evts with e- hit:     2499
+ evts with muon hit:   0
+ evts with non-zero energy in depletion zone:  1040
+ total nonionizing energy deposited:   0 eV 
+ total energy deposited:   259.639 MeV
+  - by gamma:               11.064 keV
+  - by electrons:           259.512 MeV
+  - by muons:               0 eV 
+ for events with non-zero energy, avg energy deposited:   103.897 keV
+ total energy deposited in pixel depletion zone:   2.64861 MeV
+ for events with non-zero energy in depletion zone, avg energy deposited:   2.54674 keV
+
+pixel depth:  300
+pixel depletion:  3
+pixel width:  1.12
+pixel max x:  300
+pixel max y:  300
+gen theta:    0
+gen theta max:    0.46
+gen phi max:    1.57
+
+ The run consists of 500000 gamma of 1.2 MeV
+ evts with non-zero energy:  2415
+ evts with gamma hit:  499999
+ evts with e- hit:     2416
+ evts with muon hit:   0
+ evts with non-zero energy in depletion zone:  994
+ total nonionizing energy deposited:   0 eV 
+ total energy deposited:   256.928 MeV
+  - by gamma:               20.284 keV
+  - by electrons:           256.839 MeV
+  - by muons:               0 eV 
+ for events with non-zero energy, avg energy deposited:   106.389 keV
+ total energy deposited in pixel depletion zone:   2.8531 MeV
+ for events with non-zero energy in depletion zone, avg energy deposited:   2.87032 keV
+
+pixel depth:  300
+pixel depletion:  3
+pixel width:  1.12
+pixel max x:  300
+pixel max y:  300
+gen theta:    0
+gen theta max:    0.46
+gen phi max:    1.57
